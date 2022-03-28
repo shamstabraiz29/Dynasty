@@ -1,0 +1,31 @@
+.connectButton {
+	background: red;
+	color: white;
+	font-size: 1.7rem;
+	padding: 0.4rem 1.2rem;
+	text-decoration: none;
+	font-weight: lighter !important;
+	list-style: none;
+	border: 2px solid black;
+	border-radius: 6px;
+	text-transform: uppercase;
+	display: inline-block;
+}
+
+@media screen and (max-width: 600px) {
+	.connectButton {
+		display: block;
+		font-size: 12px;
+		font-weight: 400;
+		line-height: 12px;
+	}
+	#connectButton {
+		display: flex;
+		flex-direction: column;
+		flex-basis: 20px;
+		margin-left: 22px;
+		margin-top: 5px;
+		margin-bottom: 5px;
+		font-size: 1.7rem;
+	}
+}

@@ -1,0 +1,77 @@
+.CardMerchant {
+	background: rgba(255, 195, 195, 0.95);
+	border-radius: 5px;
+	margin-bottom: 12px;
+	width: 100%;
+}
+
+.CardMarchantLogo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 12px;
+	margin-top: 12px;
+}
+.bottomBackground {
+	background: rgba(0, 0, 0, 0.4);
+}
+.Character {
+	text-transform: uppercase;
+	font-size: 22px;
+	text-align: center;
+	color: white;
+}
+.oufit {
+	text-transform: uppercase;
+	font-size: 16px;
+	text-align: center;
+	color: white;
+}
+.MarchantPrice {
+	background: #29293a;
+	border-radius: 3px;
+	color: white;
+	font-size: 18px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	text-transform: uppercase;
+	padding: 3px;
+	font-weight: 600;
+	align-items: center;
+}
+.portion {
+	font-size: 16px;
+	text-transform: uppercase;
+	padding: 3px;
+}
+.totalPortion {
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.inputPortion {
+	border: 2px solid red;
+	border-radius: 3px;
+	width: 80px;
+	height: 20px;
+}
+.btnplus {
+	display: flex;
+	flex-direction: row;
+	background: red;
+	padding: 3px 12px;
+	margin: 3px;
+}
+.totalPortion h1 {
+	font-size: 15px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 32px;
+}
+@media only screen and (max-width: 600px) {
+	.totalPortion h1 {
+		font-size: 8px;
+	}
+}

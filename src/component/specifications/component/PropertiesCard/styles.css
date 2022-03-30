@@ -1,0 +1,89 @@
+.PropertiesCard {
+	display: flex;
+	gap: 20px;
+	position: relative;
+	flex-wrap: wrap;
+}
+.content-container {
+	padding: 10px;
+}
+.img-container img {
+	width: 100%;
+}
+.PropertyHeading {
+	font-family: VT323;
+	font-size: 34px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 34px;
+	color: white;
+}
+.PropertyTime {
+	font-family: VT323;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 26px;
+	color: rgba(255, 255, 255, 0.73);
+}
+.PropertyOwner {
+	font-family: VT323;
+	font-size: 26px;
+	font-weight: 400;
+	line-height: 26px;
+	color: rgba(255, 255, 255, 0.71);
+	text-transform: uppercase;
+	margin-top: 20px;
+}
+.CHINO {
+	color: red;
+}
+.PropertyOffers p {
+	font-family: VT323;
+	font-size: 26px;
+	font-weight: 400;
+	line-height: 26px;
+	color: #ffffffb5;
+	margin-top: 20px;
+}
+.PropertyButtons {
+	display: flex;
+	gap: 20px;
+	margin-top: 5rem;
+}
+.coin {
+	display: flex;
+	gap: 10px;
+	align-items: center;
+}
+.PropertyOffers img {
+	width: 28px;
+	height: 23px;
+	margin-top: 10px;
+}
+.ownerimg-container {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.ownerimg-container img {
+	width: 38px;
+	height: 38px;
+	margin-top: 10px;
+}
+
+@media only screen and (max-width: 500px) {
+	.PropertyHeading {
+		font-size: 30px;
+	}
+	.PropertyTime {
+		font-size: 20px;
+	}
+	.PropertyOwner {
+		font-size: 20px;
+		margin-top: 10px;
+	}
+	.PropertyOffers p {
+		font-size: 20px;
+	}
+}

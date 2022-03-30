@@ -74,4 +74,10 @@
 	.totalPortion h1 {
 		font-size: 8px;
 	}
+	.inputPortion {
+		width: 90%;
+	}
+	.Character {
+		font-size: 20px;
+	}
 }

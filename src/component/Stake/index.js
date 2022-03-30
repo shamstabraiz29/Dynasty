@@ -72,20 +72,27 @@ const Stake = () => {
 										name='check-portion'
 									/>
 								</div>
-								<label style={{ color: 'red', padding: '10px' }}>
+								<label
+									className='checkboxLabel'
+									style={{ color: 'red', padding: '10px' }}
+								>
 									USE POTION
 								</label>
-
-								<input
-									style={{
-										padding: '2px',
-										marginLeft: '15px',
-										width: '9px',
-									}}
-									type='checkbox'
-									name='check-portion'
-								/>
-								<label style={{ color: 'red', padding: '10px' }}>
+								<div className='checkbox'>
+									<input
+										style={{
+											padding: '2px',
+											marginLeft: '15px',
+											width: '9px',
+										}}
+										type='checkbox'
+										name='check-CROSSBOW'
+									/>
+								</div>
+								<label
+									className='checkboxLabel'
+									style={{ color: 'red', padding: '10px' }}
+								>
 									USE CROSSBOW
 								</label>
 							</div>

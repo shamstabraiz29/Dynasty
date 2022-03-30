@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Dynasty/static/css/main.9bbfffd3.css",
+    "main.js": "/Dynasty/static/js/main.f6cca85b.js",
+    "static/media/USDC.png": "/Dynasty/static/media/USDC.d9d679312161ff1a497a.png",
+    "static/media/home_img.png": "/Dynasty/static/media/home_img.68fbbce5607ee60283ed.png",
+    "static/media/card.png": "/Dynasty/static/media/card.607d0df4e0f6dc206a95.png",
+    "static/media/USDT.png": "/Dynasty/static/media/USDT.b1e4146b3102ced5e6a5.png",
+    "static/media/backarrowImg.png": "/Dynasty/static/media/backarrowImg.20ff5b9c63bbd3889f81.png",
+    "static/media/3.png": "/Dynasty/static/media/3.6080f6766124e50b7613.png",
+    "static/media/5.png": "/Dynasty/static/media/5.a8073684b9e6b4169169.png",
+    "static/media/6.png": "/Dynasty/static/media/6.5d74dbb8f89b85f59c67.png",
+    "static/media/home.png": "/Dynasty/static/media/home.930d6dde4ba41e88ad37.png",
+    "static/media/4.png": "/Dynasty/static/media/4.6389408dcdd7941dfd67.png",
+    "static/media/1.png": "/Dynasty/static/media/1.3b288f2f7a278d758b48.png",
+    "static/media/7.png": "/Dynasty/static/media/7.5937af34812608b8a8ed.png",
+    "static/media/Tomb.png": "/Dynasty/static/media/Tomb.0272196353fdb5ad9216.png",
+    "static/media/img2.png": "/Dynasty/static/media/img2.dcbe51fe90d2690b759d.png",
+    "static/media/img1.png": "/Dynasty/static/media/img1.e4b817ffcd6de64b9279.png",
+    "index.html": "/Dynasty/index.html",
+    "main.9bbfffd3.css.map": "/Dynasty/static/css/main.9bbfffd3.css.map",
+    "main.f6cca85b.js.map": "/Dynasty/static/js/main.f6cca85b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bbfffd3.css",
+    "static/js/main.f6cca85b.js"
+  ]
+}
